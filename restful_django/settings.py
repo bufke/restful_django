@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'rest_framework',
     'main_app', 
     'restful_api',
+    'djangular',
 )
 
 MIDDLEWARE_CLASSES = (
